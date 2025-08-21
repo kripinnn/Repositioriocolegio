@@ -16,4 +16,4 @@ JavaScript, Java, Python, Pascal, C#
 ---
 
 📸 [Instagram](https://instagram.com/exojv.kss)  
-📧 [Gmail](mailto:kripii.jpg@gmail.com)
+
