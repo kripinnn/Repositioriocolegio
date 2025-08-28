@@ -1,9 +1,9 @@
 # Ignacio Fuentes
+# 18 Años De Edad
 
 **Estudiante de Programación**  
 Instituto Superior De Comercio Francisco Araya Bennet
-
-**Edad:** 18  
+  
 **Correo:** [kripii.jpg@gmail.com](mailto:kripii.jpg@gmail.com)  
 **Programador FullStack**
 
